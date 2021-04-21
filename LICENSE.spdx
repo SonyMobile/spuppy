@@ -1,0 +1,8 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+SPDXID: SPDXRef-DOCUMENT
+PackageName: spuppy
+PackageOriginator: Zoran Jovanović <zoran.jovanovic@sony.com>
+PackageHomePage: https://github.com/SonyMobile/spuppy
+PackageLicenseDeclared: MIT
+PackageCopyrightText: Copyright 2021 Sony Corporation

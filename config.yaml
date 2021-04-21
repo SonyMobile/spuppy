@@ -1,0 +1,12 @@
+#
+# Copyright 2021 Sony Mobile Communications Inc.
+# SPDX-License-Identifier: MIT
+#
+sp:
+  tenant: "tenant-id"
+  client: "client-id-of-the-sharepoint-app"
+  site: "url.of.the.sharepoint.site"
+  secret: "client-secret-of-the-sharepoint-app"
+runtime:
+  debug: (True|False)
+  chunk_size: x #bytes
